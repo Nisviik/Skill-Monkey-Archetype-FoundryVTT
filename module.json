@@ -1,0 +1,64 @@
+{
+  "id": "pf2e-skill-monkey-archetype-by-nisviik",
+  "title": "PF2e - Skill Monkey Archetype by Nisviik",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "download": "",    
+  "manifest": "",
+  "description": "Contains the Skill Monkey Archetype by Nisviik for PF2e.",
+  "authors": [
+    {
+      "name": "Nisviik",
+      "email": "nisviik.homebrew@gmail.com",
+      "url": "https://www.pathfinderinfinite.com/browse.php?author=Nisviik",
+      "discord": "nisviik",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "skill-monkey-archetype-feats",
+      "label": "Feats",
+      "path": "packs/skill-monkey-archetype-feats",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    },
+    {
+      "name": "skill-monkey-archetype-journal",
+      "label": "Journal",
+      "path": "packs/skill-monkey-archetype-journal",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Nisviik Homebrew",
+      "sorting": "a",
+      "packs": [],
+      "folders": [
+          {
+              "name": "Skill Monkey Archetype",
+              "sorting": "a",
+              "packs": [
+                  "skill-monkey-archetype-feats",
+                  "skill-monkey-archetype-journal"
+              ]
+          }
+      ]
+  }
+  ]
+}

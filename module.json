@@ -6,8 +6,8 @@
     "minimum": "12",
     "verified": "12"
   },
-  "download": "",    
-  "manifest": "",
+  "download": "https://github.com/Nisviik/Skill-Monkey-Archetype-FoundryVTT/archive/refs/tags/v0.1.zip",    
+  "manifest": "https://raw.githubusercontent.com/Nisviik/Skill-Monkey-Archetype-FoundryVTT/refs/heads/main/module.json",
   "description": "Contains the Skill Monkey Archetype by Nisviik for PF2e.",
   "authors": [
     {
